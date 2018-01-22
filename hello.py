@@ -1,5 +1,5 @@
 import sys
 
-print('hello, World!')
+print('Hello, World!')
 
 sys.exit(0)
